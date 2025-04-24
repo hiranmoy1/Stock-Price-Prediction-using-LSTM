@@ -1,1 +1,1 @@
-# Stock-Price-Prediction-using-LSTM
+# MYLSTM-PROJECT
